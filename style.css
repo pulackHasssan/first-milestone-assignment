@@ -34,10 +34,12 @@ p{
     background-color: #EC4F91;
     padding: 10px 20px;
     border-radius: 10px;
+   
 }
 .half_width a:hover{
     color: #EC4F91;
     background-color: aliceblue;
+    box-shadow: 10px 10px 30px rgb(218, 214, 30) inset;
 }
 .bio_section{
     background-image: url(images/biography-bg.png);
